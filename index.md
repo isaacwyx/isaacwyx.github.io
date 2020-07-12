@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Analyzed probabilities, ran hypothesis test (A/B test), and built regression model for 300k clicks on an e-commerce website to conclude if a new page would be significantly better than the old page](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
