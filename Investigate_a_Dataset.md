@@ -673,7 +673,7 @@ plt.ylabel('Attendance Proportion',fontsize = 12)
 
 
 
-![png](output_27_1.png)
+<img src="images/output_27_1.png?raw=true"/>
 
 
 ### Research Question 2: Is SMS reminder effecitve on improving the attendance rate?
