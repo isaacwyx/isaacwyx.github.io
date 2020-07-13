@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://isaacwyx.github.io/Investigate-a-dataset/)
+[Project 3 Title](https://isaacwyx.github.io/websiteAB_Test/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
