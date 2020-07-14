@@ -5,7 +5,7 @@
 ### Projects in Python: Data Visualization 
 
 [Performed Exploratory Data Analysis (EDA) on approximately 1,500 house listings in Ames, Iowa and produced explanatory data visualizations to communicate the relations between houses price and housing characteristics](https://isaacwyx.github.io/datavisualization_houseprice/)
-<img src="datavisual_houseprice.png?raw=true"/>
+<img src="images/datavisual_houseprice.png?raw=true"/>
 
 ---
 
