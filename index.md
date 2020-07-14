@@ -12,7 +12,7 @@
 ### Projects in Python: A/B Test
 
 [Analyzed probabilities, ran hypothesis test (A/B test), and built regression model for 300k clicks on an e-commerce website to conclude if a new page would be significantly better than the old page](https://isaacwyx.github.io/websiteAB_Test/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/abtest_website.png?raw=true"/>
 
 ---
 
