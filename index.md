@@ -19,7 +19,7 @@
 ### Projects in Python: Data Wrangling
 
 [Explored "WeRateDogs" Twitter data by gathering data from different sources that involved programmatic downloading and querying API, cleaning the acquired data to improve the data quality and tidiness, and producing insights and visualizations from the cleaned data](https://isaacwyx.github.io/weratedogstweet/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/werategos.jpg?raw=true"/>
 
 ---
 
